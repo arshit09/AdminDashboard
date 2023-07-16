@@ -19,7 +19,8 @@ dist-ssr
 .DS_Store
 .eslintrc.cjs
 .env
-yarn.lock
+# to deploy on Netlify
+# yarn.lock
 *.suo
 *.ntvs*
 *.njsproj
