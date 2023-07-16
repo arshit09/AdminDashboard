@@ -6,7 +6,7 @@ type Props = {
   title: string;
   color: string;
   dataKey: string;
-  chartData: object;
+  chartData: object[];
 };
 export const BarChartBox = (props: Props) => {
   return (

@@ -1,5 +1,5 @@
-import { BarChartBox } from "../../components/barChartBox/barChartBox";
 import { BigChartBox } from "../../components/bigChartBox/BigChartBox";
+import { BarChartBox } from "../../components/barChartBox/BarChartBox";
 import ChartBox from "../../components/chartBox/ChartBox";
 import PieChartBox from "../../components/PieChartBox/PieChartBox";
 import TopBox from "../../components/topBox/TopBox";
